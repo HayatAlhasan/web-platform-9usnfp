@@ -1,0 +1,19 @@
+
+  /* this is not HTML. It's C55 */
+  html {
+    background
+    color: yellow;
+    font-family: 'Alumni Sans', sans-serif;
+
+     font-weight :400;
+  }
+  body{
+    width: 800ps;
+    margin: auto;
+}
+    h1{
+     font-weight:400;
+
+
+    }
+ 
